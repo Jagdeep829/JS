@@ -27,7 +27,7 @@ Ppostal address of candidate and mobile number.
 1. Any issue during the conduct of examination is to be reported by filling the form "Help Form": [https://docs.google.com/forms/d/e/1FAIpQLSfdaRYeqS9cNDwSEixOzGROlca1o43wpG-GbZz1-RZHYFAkIg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfdaRYeqS9cNDwSEixOzGROlca1o43wpG-GbZz1-RZHYFAkIg/viewform). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to extent help during the exam time. The solution will be posted against issued posted within 10 minutes, or examination branch will contact concerned student on his / her mobile. 
 1. It is the sole responsibility of the student to provide correct and exact information asked in the help form.
 1. The students should check the date sheet of examinations uploaded on the website [https://academics.gndec.ac.in/datesheet/](https://academics.gndec.ac.in/datesheet/).
-1. Mock test for the examination will be held on 23/04/2021 at 02:00 pm and it is compulsory for every student to attempt the mock test.
+1. Mock test for the examination will be held on 26/04/2021 at 11:00 am and it is compulsory for every student to attempt the mock test.
 1. Instructions for attempting the exam will be published shortly and keep visiting the website regularly.
 
 Controller of Examination
