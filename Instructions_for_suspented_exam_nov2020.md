@@ -9,7 +9,7 @@
 1. The pattern of Question papers will be same as that in case of conventional offline examination.
 1. Use black pen only to attempt the paper.
 1. Students will have to show empty sheets and the calculator to an Invigilator at the beginning of the examination. In case of any doubt, Invigilator, can ask the candidate to turn / focus the camera anywhere and the candidate has to follow instructions.
-1. Not following instruction issue ny Examination Bracnh (in this notice and subsequent amedments or additions) and instructions of invigilator will lead to cancellation of the examintion.
+1. Not adhering to instructions issued by Examination Bracnh (in this notice and subsequent amedments or additions) and instructions of invigilator will lead to cancellation of the examintion.
 1. Students shall also be responsible to post (Registered /Speed post only) all original answer sheets within the 24 hours of the last examination of the concerned student, failing which results shall not be declared.
 1. Envelop (Containing all original answer sheets) must be of A4 size of any colour along-with cloth lining and student must write on top "Answer sheet for Nov-2020 Examination" and addressed to: Controller of Examination, Guru Nanak Dev Engineering College, Gill Park, Gill Road, Ludhiana. 
 ```
